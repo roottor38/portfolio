@@ -1,7 +1,7 @@
-##portfolio
+## portfolio
 ==============
 ## Encore 과정
-# Maket Management
+### Maket Management
    1) 사용 기술셋
       - java
       
