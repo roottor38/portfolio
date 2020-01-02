@@ -1,14 +1,32 @@
 ## portfolio
 ==============
 ## Encore 과정
-### Maket Management
+### feedback
    1. 프로젝트 설명
-      - 매장 관리(java 기초)
-      - admin 계정으로 매장 물품 추가 삭제 수정
-      - 일반 계정으로 매장 물품 검색 기능
+      - 커뮤니티의 유저들의 의견을 분석하여 게임사에 리포트를 제출
+      - 유저의 반응이 긍정인지 부정인지 확인
+      - 유저가 언급한 key word 중 top 5 확인
+      - 유저가 쓴 글 중 가장 많은 관십을 가진 글 확인
+      - 유저가 분석 기간을 정 할 수 있는 기능
+      
    2. *사용 기술셋*
-      - java 
-   - [Maket Management 바로 가기] (https://github.com/roottor38/EncoreProject01_maketManagement)
+      - Spring boot
+      - JS
+      - Css
+      - Axios
+      - ELK stack(Elasticsearch, Logstash, Kibana)
+      - Python selenium
+      - Beautifulsoup
+      - Pandas
+      - Deep Learning
+      - konlpy
+      - nltk
+      - Docker compose
+      - DNS
+      - CentOs 7
+      - maven
+      
+   - [feedback 바로 가기] (https://github.com/roottor38/EncoreProject01_maketManagement)
    
 ### Hotel Reservation
    1. 프로젝트 설명
