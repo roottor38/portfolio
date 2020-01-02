@@ -1,7 +1,7 @@
 ## portfolio
 ==============
 ## Encore 과정
-### feedback
+### Feedback
    1. 프로젝트 설명
       - 커뮤니티의 유저들의 의견을 분석하여 게임사에 리포트를 제출
       - 유저의 반응이 긍정인지 부정인지 확인
@@ -26,7 +26,26 @@
       - CentOs 7
       - maven
       
-   - [feedback 바로 가기] (https://github.com/roottor38/EncoreProject01_maketManagement)
+   - [feedback 바로 가기] (https://github.com/roottor38/feedback)
+  
+  ### Cardfit
+   1. 프로젝트 설명
+      - 사용자가 자신이 쓰는 카드를 검색하여 카드 혜택을 볼 수 있다. 
+      - 카드 혜택을 선택하여 카드 추천을 받을 수 있다.
+         
+   2. *사용 기술셋*
+      - Spring boot
+      - JS
+      - Css
+      - Jsp
+      - Axios
+      - ELK stack(Elasticsearch, Kibana)
+      - R
+      - CentOs 7
+      - maven
+      
+   - [Cardfit 바로 가기] (https://github.com/roottor38/cardfit)
+  
    
 ### Hotel Reservation
    1. 프로젝트 설명
