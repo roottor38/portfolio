@@ -27,6 +27,26 @@
       - maven
       
    - [feedback 바로 가기] (https://github.com/roottor38/feedback)
+   
+ ### 프로젝트 명 : Solkka
+ ## 신한은행 해커톤 
+   1. 프로젝트 개요
+      - 부부 재산 공동관리 시스템
+      - 부부가 자신의 재산 확인 가능
+      - 자신의 소비 성향을 파악 할 수 있음
+      - 부부의 수익, 소비성향 재산을 모델링을 통하여 재텍크을 추천 받을 수 있음
+      
+   2. *사용 기술셋*
+      - Spring boot
+      - JS
+      - Css
+      - Axios
+      - Elasticsearch, Kibana
+      - R
+      - Google Chart
+      - D3 Chart
+      
+   - [Solkka 바로 가기] (https://github.com/roottor38/shinhan_solkka)
   
   ### Cardfit
    1. 프로젝트 개요
